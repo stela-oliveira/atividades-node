@@ -1,2 +1,2 @@
-# atividades-node
-Atividades de criação de APIs com node.js e Java Script.
+# Atividades em node
+Criação de APIs com Node.js e Java Script.
