@@ -31,7 +31,7 @@ const server = createServer((req, res) => {
     }));
   }
 
-  // GET /is-prime-number?number=...
+  // GET /is-prime-number
   else if (req.method === 'GET' && pathname === '/is-prime-number') {
     const number = parseInt(searchParams.get('number'), 10);
 
